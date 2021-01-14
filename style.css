@@ -2,6 +2,9 @@
 .panda-card{
     border: 0;
 }
+.first-section{
+    background-color: rgb(239, 231, 241);
+}
 .panda-card-footer{
     display: flex;
     background-color: white;
@@ -24,6 +27,8 @@
 }
 .last{
     border-radius: 15px;
+    
+    align-content: center;
 }
 
 
