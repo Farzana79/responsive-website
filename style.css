@@ -13,17 +13,12 @@
 
 
 .card-img{
-    justify-content: center;
-    max-height: 350px;
-    max-width: 350px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 15px;
-    border-radius: 15px;
-    
-    
-    
+   
     background-color: rgb(242, 244, 247);
+    
+    
+    
+    
 }
 .last{
     border-radius: 15px;
