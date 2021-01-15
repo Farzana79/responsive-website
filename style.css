@@ -21,6 +21,10 @@
    height: 250px;
    object-fit: contain;
     border-radius:15px;
+    margin-top: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 5px;
     margin-left:auto;
     margin-right:auto;
 
