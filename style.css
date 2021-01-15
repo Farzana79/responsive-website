@@ -15,12 +15,15 @@
 }
 
 
+
 .card-img{
-    max-height:350px;
-    max-width: 350px;
+   width: 100%;
+   height: 250px;
+   object-fit: contain;
     border-radius:15px;
     margin-left:auto;
     margin-right:auto;
+
    
     background-color: rgb(242, 244, 247);
     
